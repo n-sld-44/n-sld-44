@@ -18,5 +18,5 @@
 
 - ⚡ Fun fact: I swim between a National and an International level
 
-I currently looking for an Internship in a stimulating environnement where i can refine my skills, feel free to send me a message to discuss about it or anything else tech related or not.
+I'm currently looking for an Internship in a stimulating environnement where i can refine my skills, feel free to send me a message to discuss about it or anything else tech related or not.
 
