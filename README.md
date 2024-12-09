@@ -10,8 +10,6 @@
   - Kotlin
   - NodeJs & React
 
-- 💞️ I’m looking to collaborate on ...
-
 - 📧​ You can mail me at : nathanael.soulard@edu.devinci.fr
 
 - 🔎​ And you can connect with me on [LinkedIn](www.linkedin.com/in/nathanaël-soulard) 
